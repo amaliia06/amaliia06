@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**amaliia06/amaliia06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--class Student:
+    def init(self):
+        self.name = "Гараева Амалия"
+        self.university = "УГНТУ"
+        self.skills = ["Python", "C++"]
+    
+    def introduce(self):
+        print(f"Привет! Я {self.name}")
+        print(f"Учусь в {self.university} на 2 курсе")
+        print("Изучаю:", ", ".join(self.skills))
 
-Here are some ideas to get you started:
+me = Student()
+me.introduce()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
