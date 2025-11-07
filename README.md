@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Зухрахон Арыбжанова - Студент УГНТУ 👩‍💻
+# Гараева Амалия - Студент УГНТУ 👩‍💻
 
 ![](https://img.shields.io/static/v1?label=Студент&message=УГНТУ&color=blue)
 ![](https://img.shields.io/static/v1?label=Направление&message=Прикладная-информатика&color=green)
